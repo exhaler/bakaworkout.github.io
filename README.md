@@ -9,4 +9,4 @@ Ripped from https://shmondenkovladimir.com/
 - [Day 5](https://raw.githack.com/exhaler/GYM_shmondenkovladimir/refs/heads/main/Week%205.html?token=GHSAT0AAAAAAC6XPMXLJ7DOQYMLIPWT755EZ5Q272A)
 - [Day 6](https://raw.githack.com/exhaler/GYM_shmondenkovladimir/refs/heads/main/Week%206.html?token=GHSAT0AAAAAAC6XPMXLJ7DOQYMLIPWT755EZ5Q272A)
 - [Day 7](https://raw.githack.com/exhaler/GYM_shmondenkovladimir/refs/heads/main/Week%207.html?token=GHSAT0AAAAAAC6XPMXLJ7DOQYMLIPWT755EZ5Q272A)
-- [Day 7](https://raw.githack.com/exhaler/GYM_shmondenkovladimir/refs/heads/main/Week%208.html?token=GHSAT0AAAAAAC6XPMXLJ7DOQYMLIPWT755EZ5Q272A)
+- [Day 8](https://raw.githack.com/exhaler/GYM_shmondenkovladimir/refs/heads/main/Week%208.html?token=GHSAT0AAAAAAC6XPMXLJ7DOQYMLIPWT755EZ5Q272A)
