@@ -1,6 +1,3 @@
-# GYM
-Ripped from https://shmondenkovladimir.com/
-
 # View website
 - [Day 1](http://htmlpreview.github.io/?https://github.com/exhaler/exhaler.github.io/blob/main/Week%201.html)
 - [Day 2](http://htmlpreview.github.io/?https://github.com/exhaler/exhaler.github.io/blob/main/Week%202.html)
